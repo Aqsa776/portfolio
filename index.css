@@ -1,8 +1,5 @@
 @media screen and (min-width: 480px) {
-    body {
-      background-color:#ffffff;
-    }
-  }
+
 
 *{
     padding: 0;
@@ -334,4 +331,5 @@ footer p:nth-child(2){
     color: #0e2c68;
     bottom: 57px;
     font-size: 18px;
+}
 }
